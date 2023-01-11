@@ -22,7 +22,7 @@
     "gatsby-remark-relative-images": "^0.2.2",
     "gatsby-source-drupal": "^3.5.26",
     "gatsby-source-filesystem": "^2.3.23",
-    "gatsby-transformer-remark": "^2.8.27",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.15",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
